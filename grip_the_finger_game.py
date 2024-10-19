@@ -1,3 +1,7 @@
+# Author: Vũ Thanh Hùng
+# Email: vu.thanh.hungg1@gmail.com
+# Created date: 20/10/2024
+
 import cv2
 import mediapipe as mp
 import math
